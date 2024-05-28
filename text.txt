@@ -1,0 +1,2 @@
+Inspect: https://vercel.com/roushan-code/crypto-web/8zUxmFXLcw7HcVi8knrduZssgUiJ [8s]
+✅  Production: https://crypto-5fs5bd25n-roushan-code.vercel.app [8s]
